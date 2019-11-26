@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BiBooks</string>
+    <style name="Matthew">Matthew</style>
+    <style name="Mark">Mark</style>
+    <style name="Luke">Luke</style>
+    <style name="John">John</style>
+    <style name="Acts">Acts</style>
+    <style name="Romans">Romans</style>
+    <style name="Corinthians_1">1 Corinthians</style>
+    <style name="Corinthians_2">2 Corinthians</style>
+    <style name="Galatians">Galatians</style>
+    <style name="Ephesians">Ephesians</style>
+    <style name="Philippians">Philippians</style>
+    <style name="Colossians">Colossians</style>
+    <style name="Thessalonians_1">1 Thessalonians</style>
+    <style name="Thessalonians_2">2 Thessalonians</style>
+    <style name="Timothy_1">1 Timothy</style>
+    <style name="Timothy_2">2 Timothy</style>
+    <style name="Titus">Titus</style>
+    <style name="Philemon">Philemon</style>
+    <style name="Hebrews">Hebrews</style>
+    <style name="James">James</style>
+    <style name="Peter_1">1 Peter</style>
+    <style name="Peter_2">2 Peter</style>
+    <style name="John_1">1 John</style>
+    <style name="John_2">2 John</style>
+    <style name="John_3">3 John</style>
+    <style name="Jude">Jude</style>
+    <style name="Revelations">Revelations</style>
+
+
+</resources>
